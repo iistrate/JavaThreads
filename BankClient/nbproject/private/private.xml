@@ -3,9 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Ioan/Documents/NetBeansProjects/BankServer/src/bankserver/BankAccount.java</file>
-            <file>file:/C:/Users/Ioan/Documents/NetBeansProjects/BankServer/src/bankserver/BankServer.java</file>
-            <file>file:/C:/Users/Ioan/Documents/NetBeansProjects/BankServer/src/bankserver/WithdrawRunnable.java</file>
+            <file>file:/C:/Users/Ioan/Documents/NetBeansProjects/BankClient/src/bankclient/BankClient.java</file>
         </group>
     </open-files>
 </project-private>
